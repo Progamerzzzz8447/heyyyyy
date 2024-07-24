@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["discord.gg/anzrblx","Air New Zealand"];
+const statusMessages = ["discord.gg/anzrblx","discord.gg/anzrblx"];
 
 
 let currentIndex = 0;
