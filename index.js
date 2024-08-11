@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["discord.gg/anzrblx","discord.gg/anzrblx"];
+const statusMessages = ["discord.gg/tui","Tui Roblox"];
 
 
 let currentIndex = 0;
