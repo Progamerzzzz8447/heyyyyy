@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching IHG","Watching IHG"];
+const statusMessages = ["Condor | Automations","Condor | Automations"];
 
 
 let currentIndex = 0;
